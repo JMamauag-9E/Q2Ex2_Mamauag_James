@@ -1,0 +1,12 @@
+body {
+	background-color: lightslategrey;
+	color: white;
+}
+
+.container {
+	background-color: darkviolet;
+}
+
+img {
+	width: 150px;
+}
